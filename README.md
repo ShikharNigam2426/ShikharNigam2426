@@ -2,14 +2,17 @@
 <h3 align="center">B.Tech CSE @ BBDITM | Full Stack & C++ Developer</h3>
 
 <p align="center">
+  <a href="https://github.com/ShikharNigam2426">
+    <img src="https://komarev.com/ghpvc/?username=ShikharNigam2426&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shikhar-nigam-ct4399" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/ShikharNigam2426" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/ShikharNigam2426" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -17,12 +20,13 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I'm currently building full stack apps with **MERN/Next.js stack**
-- ⚙️ Exploring **C++ system-level development** & memory management
-- 🧠 Strong grip on **DSA, OOPs, DBMS, OS**
-- 🔭 Currently working as a **Full Stack Intern at Da LaLa’s Cloud Kitchen**
-- 🏆 Won multiple **DSA & debugging contests**
-- 📫 Reach me at: **shikharnigam123@gmail.com**
+- 💻 Building full stack apps using **MERN/Next.js stack**
+- ⚙️ Exploring **C++ system-level development**
+- 🧠 Strong foundation in **DSA, OOPs, DBMS, OS**
+- 💼 **Worked as Full Stack Developer Intern at Da LaLa’s Cloud Kitchen**
+- 💼 **Worked as Front End Developer Intern at Conatus Bharat**
+- 🏆 Winner of multiple DSA/debugging contests
+- 📫 Email: **shikharnigam123@gmail.com**
 
 ---
 
